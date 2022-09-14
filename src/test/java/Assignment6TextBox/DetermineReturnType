@@ -1,0 +1,5 @@
+A. "123" = anything inside the double quotation is consider as a String. So we will need a String value to store the data.
+B. "123" + 3 = Return type String
+C. By.By.cssSelector() = Return type By
+D. New ChromeDriver() = need a variable type call ChromeDriver.
+E. "xyz".trim() = Return type String.

@@ -1,0 +1,6 @@
+#alpha li:nth-child(1), Dog = #alpha li:nth-child(2)
+.epsilon li:nth-child(3)
+.gamma .epsilon
+.epsilon .usa + li
+#alpha .epsilon
+li:nth-child(4)

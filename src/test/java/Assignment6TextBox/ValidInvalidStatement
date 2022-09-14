@@ -1,0 +1,11 @@
+String len = "xyz".toString().length();
+When the whole Assignment Operation run, right expression will return us an int value, its invalid cuz we are trying to store int value in String.
+
+int x = "1" + 4;
+Its invalid cuz we are trying to store a String value to an int variable.
+
+String s = "123".length() + "1"
+Its valid
+
+String name = System.out.println("Hello World");
+Invalid cuz when right expression runs, it wont return anything cuz its a void method.
